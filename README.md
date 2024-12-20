@@ -99,4 +99,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/kovidH333/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kovidH333/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kovidH333/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kovidH333/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/kovidH333/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
