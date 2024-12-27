@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kovidH333/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kovidH333/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/kovidH333/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kovidH333/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kovidH333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/kovidH333/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
