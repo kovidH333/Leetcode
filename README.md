@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kovidH333/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kovidH333/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kovidH333/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kovidH333/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kovidH333/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kovidH333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kovidH333/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kovidH333/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kovidH333/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kovidH333/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kovidH333/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/kovidH333/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Queue
