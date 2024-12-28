@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kovidH333/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kovidH333/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kovidH333/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kovidH333/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kovidH333/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kovidH333/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kovidH333/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kovidH333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kovidH333/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/kovidH333/Leetcode/tree/master/2868-continuous-subarrays) |
