@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kovidH333/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kovidH333/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1917-maximum-average-pass-ratio](https://github.com/kovidH333/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kovidH333/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kovidH333/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kovidH333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kovidH333/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kovidH333/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kovidH333/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kovidH333/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kovidH333/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Prefix Sum
 |  |
 | ------- |
