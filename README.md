@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kovidH333/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/kovidH333/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kovidH333/Leetcode/tree/master/0070-climbing-stairs) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kovidH333/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kovidH333/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/kovidH333/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kovidH333/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kovidH333/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kovidH333/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
