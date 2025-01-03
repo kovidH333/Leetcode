@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kovidH333/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kovidH333/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kovidH333/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/kovidH333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kovidH333/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kovidH333/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kovidH333/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kovidH333/Leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/kovidH333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kovidH333/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/kovidH333/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/kovidH333/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
