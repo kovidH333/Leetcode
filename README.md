@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kovidH333/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kovidH333/Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kovidH333/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/kovidH333/Leetcode/tree/master/0455-assign-cookies) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/kovidH333/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0940-fruit-into-baskets](https://github.com/kovidH333/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kovidH333/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/kovidH333/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kovidH333/Leetcode/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/kovidH333/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kovidH333/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kovidH333/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kovidH333/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kovidH333/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/kovidH333/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/kovidH333/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/kovidH333/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kovidH333/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Indexed Tree
