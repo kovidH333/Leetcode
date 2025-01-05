@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kovidH333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kovidH333/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1250-longest-common-subsequence](https://github.com/kovidH333/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kovidH333/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/kovidH333/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kovidH333/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/kovidH333/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/kovidH333/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/kovidH333/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/kovidH333/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/kovidH333/Leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/kovidH333/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Prefix Sum
