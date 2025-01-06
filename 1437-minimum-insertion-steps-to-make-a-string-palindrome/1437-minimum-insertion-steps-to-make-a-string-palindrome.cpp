@@ -14,7 +14,6 @@ public:
             prev = curr;
         }
         int cnt = prev[n];
-        if(cnt==0) return n-1;
-        else return n-cnt;
+        return n-cnt;
     }
 };
