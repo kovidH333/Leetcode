@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kovidH333/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/kovidH333/Leetcode/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kovidH333/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/kovidH333/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kovidH333/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/kovidH333/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/kovidH333/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kovidH333/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/kovidH333/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kovidH333/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/kovidH333/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kovidH333/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kovidH333/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kovidH333/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/kovidH333/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kovidH333/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kovidH333/Leetcode/tree/master/0064-minimum-path-sum) |
