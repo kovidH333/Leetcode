@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kovidH333/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/kovidH333/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/kovidH333/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/kovidH333/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kovidH333/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/kovidH333/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/kovidH333/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/kovidH333/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/kovidH333/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
 | ------- |
