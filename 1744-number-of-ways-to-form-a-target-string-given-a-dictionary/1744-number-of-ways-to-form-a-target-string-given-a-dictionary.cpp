@@ -1,57 +1,33 @@
 class Solution {
 public:
     int numWays(vector<string>& words, string target) {
-        vector<vector<int>> dp(words[0].size(), vector<int>(target.size(), -1));
-        vector<vector<int>> charFrequency(words[0].size(), vector<int>(26, 0));
+        int wordLength = words[0].size();
+        int targetLength = target.size();
+        const int MOD = 1000000007;
 
-        // Store the frequency of every character at every index.
-        for (int i = 0; i < words.size(); i++) {
-            for (int j = 0; j < words[0].size(); j++) {
-                int character = words[i][j] - 'a';
-                charFrequency[j][character]++;
+        vector<vector<int>> charFrequency(wordLength, vector<int>(26, 0));
+        for (const string& word : words) {
+            for (int j = 0; j < wordLength; ++j) {
+                charFrequency[j][word[j] - 'a']++;
             }
         }
-        return getWords(words, target, 0, 0, dp, charFrequency);
-    }
 
-private:
-    long getWords(vector<string>& words, string& target, int wordsIndex,
-                  int targetIndex, vector<vector<int>>& dp,
-                  vector<vector<int>>& charFrequency) {
-        if (targetIndex == target.size()) return 1;
-        if (wordsIndex == words[0].size() ||
-            words[0].size() - wordsIndex < target.size() - targetIndex)
-            return 0;
+        vector<long>prev(targetLength + 1, 0);
+        vector<long> curr(targetLength + 1, 0);
 
-        if (dp[wordsIndex][targetIndex] != -1)
-            return dp[wordsIndex][targetIndex];
+        prev[0] = 1;
 
-        long countWays = 0;
-        int curPos = target[targetIndex] - 'a';
-        // Don't match any character of target with any word.
-        countWays += getWords(words, target, wordsIndex + 1, targetIndex, dp,
-                              charFrequency);
-        // Multiply the number of choices with getWords and add it to count.
-        countWays += charFrequency[wordsIndex][curPos] *
-                     getWords(words, target, wordsIndex + 1, targetIndex + 1,
-                              dp, charFrequency);
-
-        return dp[wordsIndex][targetIndex] = countWays % 1000000007;
+        for (int currWord = 1; currWord <= wordLength; ++currWord) {
+            curr = prev;
+            for (int currTarget = 1; currTarget <= targetLength; ++currTarget) {
+                int curPos = target[currTarget - 1] - 'a';
+                curr[currTarget] += (charFrequency[currWord - 1][curPos] *
+                                          prev[currTarget - 1]) %
+                                         MOD;
+                curr[currTarget] %= MOD;
+            }
+            prev = curr;
+        }
+        return curr[targetLength];
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
