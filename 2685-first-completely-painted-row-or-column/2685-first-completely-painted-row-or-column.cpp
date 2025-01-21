@@ -1,33 +1,26 @@
 class Solution {
 public:
     int firstCompleteIndex(vector<int>& arr, vector<vector<int>>& mat) {
-        int numRows = mat.size(), numCols = mat[0].size();
-        vector<int> rowCount(numRows), colCount(numCols);
-        unordered_map<int, pair<int, int>> numToPos;
+        int m = mat.size();
+        int n = mat[0].size();
 
-        // Create a map to store the position of each number in the matrix
-        for (int row = 0; row < numRows; row++) {
-            for (int col = 0; col < numCols; col++) {
-                int value = mat[row][col];
-                numToPos[value] = {row, col};
+        vector<int> row(m,0);
+        vector<int> col(n,0);
+
+        unordered_map<int, pair<int, int>> posMap;
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                posMap[mat[i][j]] = {i, j}; 
             }
         }
 
-        for (int i = 0; i < arr.size(); i++) {
-            int num = arr[i];
-            auto [row, col] = numToPos[num];
-
-            // Increment the count for the corresponding row and column
-            rowCount[row]++;
-            colCount[col]++;
-
-            // Check if the row or column is completely painted
-            if (rowCount[row] == numCols || colCount[col] == numRows) {
-                return i;
+        for(int t=0; t<arr.size(); t++){
+            row[posMap[arr[t]].first]++;
+            col[posMap[arr[t]].second]++;
+            if(row[posMap[arr[t]].first]==n||col[posMap[arr[t]].second]==m){
+                return t;
             }
         }
-
-        return -1;  // This line will never be reached as per the problem
-                    // statement
+        return m*n-max(m,n);
     }
 };
